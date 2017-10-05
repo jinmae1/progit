@@ -1,2 +1,2 @@
 # progit
-this is a test repository for git.
+This is a test repository for git.
